@@ -28,6 +28,4 @@ and then just pick house you want change to.
 If you want to fork it then there's no problems, i'll probably not gonna update it so often because it doesn't have so many functionalities that might break within time.
 And if you think it's a virus then that's why it is on github, you can check code whenever you want!
 ### Preview
-![prev1](https://user-images.githubusercontent.com/47297843/179804590-17168596-9533-4fa0-a934-be04f2fc9be8.png)
-![prev2](https://user-images.githubusercontent.com/47297843/179804629-69959173-2661-426b-ae19-c798f3c595db.png)
-![prev3](https://user-images.githubusercontent.com/47297843/179804690-8afd4180-4f67-42cf-aadb-859fb0b19f08.png)
+![prev1](https://user-images.githubusercontent.com/47297843/179804629-69959173-2661-426b-ae19-c798f3c595db.png)
