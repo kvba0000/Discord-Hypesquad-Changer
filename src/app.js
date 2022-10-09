@@ -37,7 +37,7 @@ import {createInterface} from "node:readline";
         console.log(`
         \x1b[34m
         Discord Hypesquad Changer
-        Created by: dgl\x1b[0m
+        Created by: kob\x1b[0m
             
         \x1b[36mPick Hypesquad House:\n${houses.map((h,i) => `       ${i+1}.${h}`).join("\n")}`);
         
